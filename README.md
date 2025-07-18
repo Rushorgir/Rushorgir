@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Rushorgir!
 
-<!--
-**Rushorgir/Rushorgir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a Computer Science student at VIT Chennai, Class of 2029, specializing in AI/ML. I love coding, building cool projects, and playing video games. I code hard and game harder. 
+**DM me on discord if you want to collaborate on projects!**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 **Student:** Computer Science (AI/ML Specialization), VIT Chennai, Batch of 2029
+- 🧑‍💻 **Skills:** Coding (Python, C++, HTML, etc.), and Gaming
+- 🤖 **Project Highlight:**  
+  One of my best current projects is a Discord bot, which you can check out in [my GitHub repositories](https://github.com/Rushorgir?tab=repositories).
+- 🌐 **Personal Website:** [rushorgir.github.io/linkpage](https://rushorgir.github.io/linkpage/)
+
+---
+
+## 📫 My Links
+
+- [Personal Website](https://rushorgir.github.io/linkpage/)
+- [GitHub](https://github.com/Rushorgir)
+- Discord: @rushorgir
