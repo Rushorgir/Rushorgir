@@ -2,7 +2,11 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:001F1F,100:00FFD1&height=200&section=header&text=Hi%20I'm%20Rushorgir%20👋&fontSize=40&fontColor=00FFD1&animation=fadeIn&fontAlignY=35)
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;AI%2FML+Enthusiast;Full+Stack+Learner;Hardcode+Gamer)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;AI%2FML+Enthusiast;Full+Stack+Learner;Hardcore+Gamer" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
