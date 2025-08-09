@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!  
 I'm a Computer Science student at VIT Chennai, Class of 2029, specializing in AI/ML. I love coding, building cool projects, and playing video games. I code hard and game harder. 
-**DM me on discord if you want to collaborate on projects!**
+**DM me on Discord if you want to collaborate on projects!**
 
 ---
 
@@ -18,6 +18,6 @@ I'm a Computer Science student at VIT Chennai, Class of 2029, specializing in AI
 
 ## 📫 My Links
 
-- [Personal Website](https://rushorgir.github.io/linkpage/)
+- [Personal Website](https://rushorgir.github.io/Resume/)
 - [GitHub](https://github.com/Rushorgir)
 - Discord: @rushorgir
