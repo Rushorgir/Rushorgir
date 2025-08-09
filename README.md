@@ -1,49 +1,46 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20I'm%20Rushaan%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:001F1F,100:00FFD1&height=200&section=header&text=Hi%20I'm%20Rushorgir%20👋&fontSize=40&fontColor=00FFD1&animation=fadeIn&fontAlignY=35)
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Aspiring+Computer+Scientist;AI%2FML+Enthusiast;Full+Stack+Learner;Minecraft+Event+Host)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;AI%2FML+Enthusiast;Full+Stack+Learner;Hardcode+Gamer)](https://git.io/typing-svg)
 
 ---
 
 ## 🧑‍💻 About Me
-- 🚀 Future **Computer Science + AI/ML** student at Plaksha University  
+- 🚀 Future **Computer Science + AI/ML** student at VIT, Chennai  
 - 🌱 Exploring **Artificial Intelligence, Machine Learning, and Full-Stack Development**  
-- 🛠 Skilled in **Python**, **Flask**, **HTML/CSS/JS**, **C++**  
-- 🎮 Minecraft guild & event host, passionate about building communities  
+- 🛠 Skilled in **Python**, **HTML/CSS/JS**, and **Competetive Programming**
 - ⚡ Fun fact: I love dark humor & clever challenges  
 
 ---
 
 ## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Python](https://img.shields.io/badge/Python-001F1F?style=for-the-badge&logo=python&logoColor=00FFD1)
+![JavaScript](https://img.shields.io/badge/JavaScript-001F1F?style=for-the-badge&logo=javascript&logoColor=00FFD1)
+![HTML5](https://img.shields.io/badge/HTML5-001F1F?style=for-the-badge&logo=html5&logoColor=00FFD1)
+![CSS3](https://img.shields.io/badge/CSS3-001F1F?style=for-the-badge&logo=css3&logoColor=00FFD1)
+![MySQL](https://img.shields.io/badge/MySQL-001F1F?style=for-the-badge&logo=mysql&logoColor=00FFD1)
+![macOS](https://img.shields.io/badge/macOS-001F1F?style=for-the-badge&logo=apple&logoColor=00FFD1)
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=tokyonight&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rushorgir&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushorgir&layout=compact&theme=chartreuse-dark&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rushorgir&theme=chartreuse-dark&hide_border=true)  
 
 </div>
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_INVITE)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-001F1F?style=for-the-badge&logo=linkedin&logoColor=00FFD1)](https://www.linkedin.com/in/rushaan-nayyar-177105379/)  
+[![Discord](https://img.shields.io/badge/Discord-001F1F?style=for-the-badge&logo=discord&logoColor=00FFD1)](https://discordapp.com/users/YOUR_USER_ID)
+[![Email Me](https://img.shields.io/badge/Email-001F1F?style=for-the-badge&logo=gmail&logoColor=00FFD1)](mailto:nayyarrushaan@gmail.com)
 
 ---
 
 <!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:001F1F,100:00FFD1&height=100&section=footer)
