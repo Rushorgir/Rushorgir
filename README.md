@@ -14,7 +14,7 @@
 - 🚀 Future **Computer Science + AI/ML** student at VIT, Chennai  
 - 🌱 Exploring **Artificial Intelligence, Machine Learning, and Full-Stack Development**  
 - 🛠 Skilled in **Python**, **HTML/CSS/JS**, and **Competetive Programming**
-- ⚡ Fun fact: I love dark humor & clever challenges  
+- ⚡ Fun fact: **I love dark humor & challenges that make me hold my head in my hands.  **
 
 ---
 
