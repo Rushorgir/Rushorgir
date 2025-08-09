@@ -40,7 +40,7 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-001F1F?style=for-the-badge&logo=linkedin&logoColor=00FFD1)](https://www.linkedin.com/in/rushaan-nayyar-177105379/) [![Discord](https://img.shields.io/badge/Discord-001F1F?style=for-the-badge&logo=discord&logoColor=00FFD1)](https://discordapp.com/users/YOUR_USER_ID) [![Email Me](https://img.shields.io/badge/Email-001F1F?style=for-the-badge&logo=gmail&logoColor=00FFD1)](mailto:nayyarrushaan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-001F1F?style=for-the-badge&logo=linkedin&logoColor=00FFD1)](https://www.linkedin.com/in/rushaan-nayyar-177105379/) [![Discord](https://img.shields.io/badge/Discord-001F1F?style=for-the-badge&logo=discord&logoColor=00FFD1)](https://discordapp.com/users/rushorgir) [![Email Me](https://img.shields.io/badge/Email-001F1F?style=for-the-badge&logo=gmail&logoColor=00FFD1)](mailto:nayyarrushaan@gmail.com)
 
 ---
 
