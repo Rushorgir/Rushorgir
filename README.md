@@ -9,7 +9,7 @@
 ---
 
 ## 🧑‍💻 About Me
-✨ Future **Computer Science + AI/ML** student at **VIT Chennai**  
+✨ **Computer Science** student at **VIT Chennai**  
 🚀 Exploring **AI, ML, and Full-Stack Development**  
 🛠 Skilled in **Python**, **HTML/CSS/JS**, and **Competitive Programming**  
 ⚡ Fun fact: I love **dark humor & challenges that break my brain**.  
