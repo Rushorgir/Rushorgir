@@ -18,16 +18,16 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-001F1F?style=for-the-badge&logo=python&logoColor=00FFD1" />
-  <img src="https://img.shields.io/badge/JavaScript-001F1F?style=for-the-badge&logo=javascript&logoColor=00FFD1" />
-  <img src="https://img.shields.io/badge/HTML5-001F1F?style=for-the-badge&logo=html5&logoColor=00FFD1" />
-  <img src="https://img.shields.io/badge/CSS3-001F1F?style=for-the-badge&logo=css3&logoColor=00FFD1" />
-  <img src="https://img.shields.io/badge/MySQL-001F1F?style=for-the-badge&logo=mysql&logoColor=00FFD1" />
-  <img src="https://img.shields.io/badge/macOS-001F1F?style=for-the-badge&logo=apple&logoColor=00FFD1" />
-  <img src="https://img.shields.io/badge/GitHub-001F1F?style=for-the-badge&logo=github&logoColor=00FFD1" />
-  <img src="https://img.shields.io/badge/Git-001F1F?style=for-the-badge&logo=git&logoColor=00FFD1" />
-  <img src="https://img.shields.io/badge/Vercel-001F1F?style=for-the-badge&logo=vercel&logoColor=00FFD1" />
-  <img src="https://img.shields.io/badge/VSCode-001F1F?style=for-the-badge&logo=visualstudiocode&logoColor=00FFD1" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="html5" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="css3" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/apple-icon.svg" alt="macOS" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="git" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/vercel-icon.svg" alt="vercel" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="vscode" width="48" height="48" />
 </p>
 
 ---
