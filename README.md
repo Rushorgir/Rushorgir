@@ -74,6 +74,12 @@
 
 ---
 
+## 📈 Contribution Graph
+[![Rushorgir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rushorgir&bg_color=0d1117&color=00b3ff&line=00b3ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+---
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://rushorgir.github.io/Resume/"><img src="https://img.shields.io/badge/Website-001F1F?style=for-the-badge&logo=readthedocs&logoColor=00FFD1"/></a>
