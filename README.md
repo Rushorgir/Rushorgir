@@ -69,6 +69,11 @@
 
 ---
 
+## 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rushorgir&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://rushorgir.github.io/Resume/"><img src="https://img.shields.io/badge/Website-001F1F?style=for-the-badge&logo=readthedocs&logoColor=00FFD1"/></a>
