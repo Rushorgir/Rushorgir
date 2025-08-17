@@ -17,18 +17,52 @@
 ---
 
 ## 🛠 Tech Stack
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="html5" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="css3" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/apple-icon.svg" alt="macOS" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="git" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/vercel-icon.svg" alt="vercel" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="vscode" width="48" height="48" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="48" height="48" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="48" height="48" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="html5" width="48" height="48" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="css3" width="48" height="48" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="48" height="48" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/apple-icon.svg" alt="macOS" width="48" height="48" />
+      <br>macOS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="48" height="48" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="git" width="48" height="48" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/vercel-icon.svg" alt="vercel" width="48" height="48" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="vscode" width="48" height="48" />
+      <br>VS Code
+    </td>
+  </tr>
+</table>
 
 ---
 
