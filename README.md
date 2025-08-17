@@ -28,37 +28,27 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="html5" width="48" height="48" />
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="48" height="48" alt="HTML5" />
       <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="css3" width="48" height="48" />
-      <br>CSS3
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="48" height="48" />
       <br>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/apple-icon.svg" alt="macOS" width="48" height="48" />
-      <br>macOS
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="48" height="48" />
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="git" width="48" height="48" />
+      <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/vercel-icon.svg" alt="vercel" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
       <br>Vercel
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="vscode" width="48" height="48" />
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="48" height="48" alt="VSCode" />
       <br>VS Code
     </td>
   </tr>
@@ -81,9 +71,12 @@
 
 ## 🌐 Connect with Me
 <p align="center">
+  <a href="https://rushorgir.github.io/Resume/"><img src="https://img.shields.io/badge/Website-001F1F?style=for-the-badge&logo=readthedocs&logoColor=00FFD1"/></a>
   <a href="https://www.linkedin.com/in/rushaan-nayyar-177105379/"><img src="https://img.shields.io/badge/LinkedIn-001F1F?style=for-the-badge&logo=linkedin&logoColor=00FFD1"/></a>
+  <a href="https://www.instagram.com/rushorgir/"><img src="https://img.shields.io/badge/Instagram-001F1F?style=for-the-badge&logo=instagram&logoColor=00FFD1"/></a>
   <a href="https://discordapp.com/users/rushorgir"><img src="https://img.shields.io/badge/Discord-001F1F?style=for-the-badge&logo=discord&logoColor=00FFD1"/></a>
   <a href="mailto:nayyarrushaan@gmail.com"><img src="https://img.shields.io/badge/Email-001F1F?style=for-the-badge&logo=gmail&logoColor=00FFD1"/></a>
+  
 </p>
 
 ---
