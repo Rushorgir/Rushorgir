@@ -8,13 +8,11 @@
 
 ---
 
-<p align="center">
-  ## 🧑‍💻 About Me
-  ✨ **Computer Science** student at **VIT Chennai**  
-  🚀 Exploring **AI, ML, and Full-Stack Development**  
-  🛠 Skilled in **Python**, **HTML/CSS/JS**, and **Competitive Programming**  
-  ⚡ Fun fact: I love **dark humor & challenges that break my brain**.  
-</p>
+## 🧑‍💻 About Me
+✨ **Computer Science** student at **VIT Chennai**  
+🚀 Exploring **AI, ML, and Full-Stack Development**  
+🛠 Skilled in **Python**, **HTML/CSS/JS**, and **Competitive Programming**  
+⚡ Fun fact: I love **dark humor & challenges that break my brain**.  
 
 ---
 
@@ -26,6 +24,10 @@
   <img src="https://img.shields.io/badge/CSS3-001F1F?style=for-the-badge&logo=css3&logoColor=00FFD1" />
   <img src="https://img.shields.io/badge/MySQL-001F1F?style=for-the-badge&logo=mysql&logoColor=00FFD1" />
   <img src="https://img.shields.io/badge/macOS-001F1F?style=for-the-badge&logo=apple&logoColor=00FFD1" />
+  <img src="https://img.shields.io/badge/GitHub-001F1F?style=for-the-badge&logo=github&logoColor=00FFD1" />
+  <img src="https://img.shields.io/badge/Git-001F1F?style=for-the-badge&logo=git&logoColor=00FFD1" />
+  <img src="https://img.shields.io/badge/Vercel-001F1F?style=for-the-badge&logo=vercel&logoColor=00FFD1" />
+  <img src="https://img.shields.io/badge/VSCode-001F1F?style=for-the-badge&logo=visualstudiocode&logoColor=00FFD1" />
 </p>
 
 ---
