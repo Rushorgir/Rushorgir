@@ -82,7 +82,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://rushorgir.github.io/Resume/"><img src="https://img.shields.io/badge/Website-001F1F?style=for-the-badge&logo=readthedocs&logoColor=00FFD1"/></a>
+  <a href="https://rushorgir.me/"><img src="https://img.shields.io/badge/Website-001F1F?style=for-the-badge&logo=readthedocs&logoColor=00FFD1"/></a>
   <a href="https://www.linkedin.com/in/rushaan-nayyar-177105379/"><img src="https://img.shields.io/badge/LinkedIn-001F1F?style=for-the-badge&logo=linkedin&logoColor=00FFD1"/></a>
   <a href="https://www.instagram.com/rushorgir/"><img src="https://img.shields.io/badge/Instagram-001F1F?style=for-the-badge&logo=instagram&logoColor=00FFD1"/></a>
   <a href="https://discordapp.com/users/rushorgir"><img src="https://img.shields.io/badge/Discord-001F1F?style=for-the-badge&logo=discord&logoColor=00FFD1"/></a>
