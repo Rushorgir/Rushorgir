@@ -9,9 +9,9 @@
 ---
 
 ## 🧑‍💻 About Me
-✨ **Computer Science** student at **VIT Chennai**  
-🚀 Exploring **AI, ML, and Full-Stack Development**  
-🛠 Skilled in **Python**, **C/C++**, **HTML/CSS/JS**, and **Competitive Programming**  
+- **Computer Science** student at **VIT Chennai**  
+- Exploring **AI, ML, and Full-Stack Development**
+- Skilled in **Python**, **C/C++**, **HTML/CSS/JS**, and **Competitive Programming**  
 
 ---
 
@@ -31,8 +31,27 @@
       <br>HTML5
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="48" height="48" />
       <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+      <br>Supabase
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="48" height="48" />
@@ -57,25 +76,9 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Rushorgir&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&cache_seconds=18000" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushorgir&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=18000" height="170" />
-
-  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rushorgir&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000" height="170"/>
   
 </div>
-
----
-
-## 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rushorgir&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📈 Contribution Graph
-[![Rushorgir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rushorgir&bg_color=0d1117&color=00b3ff&line=00b3ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ---
 
