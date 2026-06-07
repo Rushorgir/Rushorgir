@@ -11,7 +11,7 @@
 ## 🧑‍💻 About Me
 ✨ **Computer Science** student at **VIT Chennai**  
 🚀 Exploring **AI, ML, and Full-Stack Development**  
-🛠 Skilled in **Python**,**C/C++**, **HTML/CSS/JS**, and **Competitive Programming**  
+🛠 Skilled in **Python**, **C/C++**, **HTML/CSS/JS**, and **Competitive Programming**  
 
 ---
 
