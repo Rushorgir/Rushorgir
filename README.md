@@ -9,7 +9,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- **Computer Science** student at **VIT Chennai**  
+- **Computer Science** student specializing in AI/ML
 - Exploring **AI, ML, and Full-Stack Development**
 - Skilled in **Python**, **C/C++**, **HTML/CSS/JS**, and **Competitive Programming**  
 
@@ -83,9 +83,6 @@
 ---
 
 ## 🌐 Connect with Me
-<p align="center">
-  <a href="https://rushorgir.me/"><img src="https://img.shields.io/badge/Website-001F1F?style=for-the-badge&logo=readthedocs&logoColor=00FFD1"/></a>
-  <a href="https://www.linkedin.com/in/rushaan-nayyar-177105379/"><img src="https://img.shields.io/badge/LinkedIn-001F1F?style=for-the-badge&logo=linkedin&logoColor=00FFD1"/></a>
   <a href="https://discordapp.com/users/rushorgir"><img src="https://img.shields.io/badge/Discord-001F1F?style=for-the-badge&logo=discord&logoColor=00FFD1"/></a>
   <a href="mailto:nayyarrushaan@gmail.com"><img src="https://img.shields.io/badge/Email-001F1F?style=for-the-badge&logo=gmail&logoColor=00FFD1"/></a>
   
